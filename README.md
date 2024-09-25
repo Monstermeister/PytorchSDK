@@ -1,4 +1,4 @@
-#Copyright (c) 2020-2023, AiM Future Inc.
+Copyright (c) 2020-2023, AiM Future Inc.
 
 
 This program or software including the accompanying associated documentation ("Software") is the proprietary software of AiM Future Inc. and or its licensors, and may only be used, duplicated, modified or distributed pursuant to the terms and conditions of a separate written license agreement between you and AiM Future Inc. ("Authorized License").
